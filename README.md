@@ -9,6 +9,7 @@
 - **$898K Value Recovery**: Decoded and analyzed complex Big Data to identify critical inefficiencies, resulting in $898,000 in identified optimization opportunities
 - **Data-Driven Decision Making**: Implemented SQL and Python-based analytics to support strategic business decisions
 - **NTI Award-Winning**: Recognized for excellence in data science and supply chain optimization at the National Telecommunication Institute
+- **Team Collaboration**: Developed by a dedicated team of 5 data professionals working cohesively on analytics, engineering, and visualization
 - **Comprehensive Analysis**: Multi-layered approach combining exploratory data analysis, visualization, and business intelligence
 
 ---
@@ -239,10 +240,31 @@ jupyter notebook
 
 ---
 
-## 👨‍💼 Project Team
+## 👥 Project Team
 
-**Lead Analyst**: Mahmoud Elafandy (MhmodAfndy)
+This project was successfully developed by a **collaborative team of 5 dedicated professionals**:
+
+### Team Composition
+- **Data Analysis & Insights Lead** - Exploratory data analysis, statistical modeling, and key findings generation
+- **Data Engineer** - SQL queries, data extraction, database management, and ETL processes
+- **Business Intelligence Developer** - Dashboard design, Power BI implementation, and interactive reporting
+- **Data Scientist** - Predictive modeling, machine learning algorithms, and optimization analysis
+- **Project Coordinator** - Documentation, team coordination, and stakeholder communication
+
+### Key Contributions
+- Collaborated on data pipeline development
+- Integrated multiple data sources (SQL databases, CSV files)
+- Developed comprehensive analytical framework
+- Created professional visualizations and dashboards
+- Delivered actionable business recommendations
+
+---
+
+## 👨‍💼 Project Lead
+
+**Mahmoud Elafandy** (MhmodAfndy)
 - Data Science | Supply Chain Analytics | Business Intelligence
+- Lead Developer & Coordinator
 
 ---
 
@@ -264,6 +286,7 @@ This project is provided as-is for educational and professional purposes.
 ## 🙏 Acknowledgments
 
 - **NTI (National Telecommunication Institute)** for recognition and support
+- **Project Team Members** for their dedicated collaboration and expertise
 - Supply chain industry partners for insights and validation
 - Data science community for best practices and methodologies
 
@@ -278,6 +301,7 @@ This project is provided as-is for educational and professional purposes.
 | Dashboard Size | 9.0 MB |
 | Visualization Files | 3 files |
 | Presentation File | 278 KB |
+| Team Members | 5 Professionals |
 | **Total Value Identified** | **$898,000** |
 
 ---
@@ -288,6 +312,7 @@ This project is provided as-is for educational and professional purposes.
 ⭐ **$898K Optimization Identified**
 ⭐ **Data-Driven Supply Chain Optimization**
 ⭐ **Advanced Big Data Analytics**
+⭐ **Collaborative Team Effort**
 
 ---
 
@@ -297,4 +322,4 @@ This project is provided as-is for educational and professional purposes.
 
 ---
 
-> *"Data is the new oil, and analytics is the refinery."* - Supply Chain Excellence through intelligent data utilization.
+> *"Data is the new oil, and analytics is the refinery."* - Supply Chain Excellence through intelligent data utilization and team collaboration.
